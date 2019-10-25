@@ -1,0 +1,33 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+.tabs{
+    height: 30px;
+}
+
+.tabs ul li{
+  float: left;
+  width: 150px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  background-color: #ccc;
+}
+
+
+
+.tab{
+    width: 125px;
+    height: 30px;
+    line-height: 30px;
+    background: none;
+}
+
+.select{
+  background-image: linear-gradient(to right, dimgray, gray);
+}
